@@ -21,4 +21,5 @@
 *.out
 *.app
 
-/build
+# Build directories
+build
