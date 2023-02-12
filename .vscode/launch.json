@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/workspaces/Almond/${fileBasenameNoExtension}",
+            "program": "/workspaces/build/Almond/${fileBasename}.so",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
